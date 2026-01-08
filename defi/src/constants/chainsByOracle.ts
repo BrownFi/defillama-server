@@ -494,6 +494,10 @@ const chainsByOracle: Record<string, Array<string>> = {
     "Berachain",
     "Plume Mainnet",
     "Corn",
+    "Unichain",
+    "Avalanche",
+    "Linea",
+    "Plasma",
   ],
   "eOracle": [
     "Base",
@@ -517,6 +521,24 @@ const chainsByOracle: Record<string, Array<string>> = {
   ],
   "Quex": [
     "Arbitrum",
+  ],
+  "Chaos": [
+    "Arbitrum",
+    "Solana",
+    "Avalanche",
+    "Ethereum",
+    "Corn",
+    "Ink",
+    "Scroll",
+    "Botanix",
+    "BSC",
+    "Optimism",
+    "Linea",
+    "Base",
+    "Polygon",
+    "OP Mainnet",
+    "Gnosis",
+    "Hyperliquid L1"
   ]
 };
 
